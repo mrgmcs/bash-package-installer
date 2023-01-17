@@ -2,4 +2,4 @@
 #Ubuntu, PackageManager:apt
 apt update
 apt upgrade
-apt install vi -y
+apt install vim -y
